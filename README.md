@@ -1,5 +1,5 @@
 # Paises-centro-america
--mi nombre es Starling Diaz matricula 20210416 
+- mi nombre es Starling Diaz matricula 20210416 
 En la siguiente pratica se pidio realizar una pagina para cada pais de centroamerica, 
 en la cual estas tenian que tener la historia,los departamentos,los simbolos patrios etc, de su pais.
 
