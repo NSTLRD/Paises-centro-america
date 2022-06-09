@@ -6,3 +6,5 @@ en la cual estas tenian que tener la historia,los departamentos,los simbolos pat
 - utilizamos la correcta estructura semantica de html5, agregamos estilos con css3, y respetando el desing mobil firt la hicimos 
   responsibe. puede ser vista en mobil y desktop. esta pagina la subi con netlify un gestor de paginas web estaticas que te permite subirlas gratis,
   y observar como funcionan.
+
+- esta es la url https://centro-america-paises.netlify.app/
